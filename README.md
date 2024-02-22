@@ -1,3 +1,3 @@
-### Twitter CLone with Typescript
+# Twitter CLone with Typescript
 
 Update....
