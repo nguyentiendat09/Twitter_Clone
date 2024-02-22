@@ -12,7 +12,7 @@ userRouter.get('/tweets', (req, res) => {
     data: [
       {
         id: 1,
-        text: 'Hello World'
+        text: 'Hello Tien Dat'
       }
     ]
   })
